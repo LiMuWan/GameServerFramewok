@@ -1,0 +1,99 @@
+﻿  fs-poll.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\fs-poll.c(188): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\fs-poll.c(191): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+  inet.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\inet.c(171): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\inet.c(198): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\inet.c(294): warning C4244: “初始化”: 从“__int64”转换到“const int”，可能丢失数据
+  threadpool.c
+  uv-common.c
+  version.c
+  async.c
+  core.c
+  dl.c
+  error.c
+  fs-event.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs-event.c(84): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs-event.c(402): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs-event.c(409): warning C4477: “_snwprintf”: 格式字符串“%.*s”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs-event.c(409): note: 此参数用作精度
+  fs.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(185): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(199): warning C4244: “函数”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(921): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(953): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(955): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1328): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1515): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1572): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1573): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1601): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1602): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1916): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1930): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(1966): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2002): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2023): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2046): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2066): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2086): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2109): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2130): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2153): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2174): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2199): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2220): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2234): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2254): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2274): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2288): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2309): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2323): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2337): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2354): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2367): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2374): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2400): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2422): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2439): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2463): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\fs.c(2481): warning C4244: “return”: 从“ssize_t”转换到“int”，可能丢失数据
+  getaddrinfo.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\getaddrinfo.c(127): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  getnameinfo.c
+  handle.c
+  loop-watcher.c
+  pipe.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\pipe.c(1053): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\pipe.c(1072): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\pipe.c(2064): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  poll.c
+  process-stdio.c
+  process.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\process.c(628): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\process.c(748): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\process.c(784): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\process.c(803): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  req.c
+  正在生成代码...
+  正在编译...
+  signal.c
+  snprintf.c
+  stream.c
+  tcp.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\tcp.c(369): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\tcp.c(388): warning C4244: “函数”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+  thread.c
+  timer.c
+  tty.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\tty.c(911): warning C4244: “初始化”: 从“ULONG_PTR”转换到“DWORD”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\tty.c(2069): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  udp.c
+  util.c
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\util.c(1147): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+f:\panlonggf\gameserverframewok\3rd\libuv\src\win\util.c(1222): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  winapi.c
+  winsock.c
+  正在生成代码...
+  main.cc
+  moba_gameserver.vcxproj -> F:\PanLongGF\GameServerFramewok\build\proj.win32\x64\Debug\moba_gameserver.exe
