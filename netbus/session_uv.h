@@ -20,6 +20,7 @@ public :
 	
 	// 关于malloc的对象  
 	uv_shutdown_t shutdown;
+	bool is_shutdown;
 	uv_write_t w_req;
 	uv_buf_t w_buf;
 private:
@@ -33,7 +34,7 @@ public :
 	int socket_type;
 
 public:
-	static session* create();
+	static uv_session* create();
 	static void destroy(uv_session* s);	  
 
 public:
@@ -42,4 +43,5 @@ public:
 	virtual const char* get_address(int* client_port) = 0;
 };
 
+void  init_session_allocer();
 #endif

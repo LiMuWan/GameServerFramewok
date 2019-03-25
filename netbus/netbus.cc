@@ -69,9 +69,10 @@ extern "C" {
 
 		//连接断开了
 		if (nread < 0) {
-			uv_shutdown_t* reg = &s->shutdown;
+			/*uv_shutdown_t* reg = &s->shutdown;
 			memset(reg, 0, sizeof(uv_shutdown_t));
-			uv_shutdown(reg, stream, on_shutdown);
+			uv_shutdown(reg, stream, on_shutdown);*/
+			s->close();
 			return;
 		}
 		// end
@@ -138,4 +139,9 @@ void netbus::start_tcp_server(int port) {
 
 void netbus::run() {
 	uv_run(uv_default_loop(), UV_RUN_DEFAULT);
+}
+
+void netbus::init()
+{
+	init_session_allocer();
 }
